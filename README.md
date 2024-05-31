@@ -1,5 +1,6 @@
 ## Hello there 👋
 
+- 🌱 I’m currently learning Pulumi and Crossplane
 - 💬 Ask me about
   - Creating a [Terraform provider](https://medium.com/@littel.jo/cr%C3%A9er-un-provider-terraform-partie-1-6cf108c1bedc) and converting it into Pulumi and Crossplane providers.
   - Preparing for and passing [Kubernetes Certification exams](https://www.credly.com/users/joseph-ligier/badges?sort=most_popular&page=1).
