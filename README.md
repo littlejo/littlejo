@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-Contact: [LinkedIn](https://www.linkedin.com/in/joseph-ligier-4b86632).
-
+- 💬 Ask me about
+  - Creating a Terraform provider and converting it into Pulumi and Crossplane providers.
+  - Preparing for and passing Kubernetes Certification exams.
+  - Understanding and using the Cilium CNI (Container Network Interface).
+  
 <!--
 **littlejo/littlejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
