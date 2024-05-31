@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Contact: [LinkedIn](https://www.linkedin.com/in/joseph-ligier-4b86632).
+
 <!--
 **littlejo/littlejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
