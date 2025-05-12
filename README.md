@@ -1,7 +1,7 @@
 ## Hello there 👋
 
-- 🌱 I’m currently learning Pulumi and Crossplane
-- 🧑‍🚀 I'm a [kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=fr&p=joseph-ligier)
+- 🌱 I’m currently learning eBPF
+- 🧑‍🚀 I'm a [kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=fr&p=joseph-ligier) and [cncf ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=fr&p=joseph-ligier)
 - 💬 Ask me about
   - Creating a [Terraform provider](https://medium.com/@littel.jo/cr%C3%A9er-un-provider-terraform-partie-1-6cf108c1bedc) and converting it into Pulumi and Crossplane providers.
   - Preparing for and passing [Kubernetes Certification exams](https://www.credly.com/users/joseph-ligier/badges?sort=most_popular&page=1).
