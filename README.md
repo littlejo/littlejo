@@ -8,7 +8,7 @@
   - Understanding and using the [Cilium](https://github.com/littlejo/cilium-eks-cookbook) CNI (Container Network Interface).
 
 
-[![DevStats Card](https://devstats.me/?username=littlejo)](https://github.com/littlejo/devstats-card)]
+[![DevStats Card](https://devstats.me/?username=littlejo)](https://github.com/littlejo/devstats-card)
 
 
 <!--
